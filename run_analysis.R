@@ -36,4 +36,4 @@ all[,meansandstds] %>%
   summarize_each(funs(mean)) -> final.data
 
 #Write it to a text file, voila!
-write.table(final.data, "final.data.txt")
+write.table(final.data, "final.data.txt", row.names = FALSE)
