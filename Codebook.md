@@ -27,6 +27,7 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
+
 ---
 
 Although many statistics were calculated from this data, I selected only the means and the standard deviations of the above variables for my summary report as per instructions. These data were gathered from multiple subjects (numbered 1 - 30) who were engaged in a number of activities (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS). The mean of every variable was found separating by subject and activity for a total of 180 (30 x 6) groups.
